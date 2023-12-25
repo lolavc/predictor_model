@@ -11,3 +11,5 @@ The data were collected throughout 2019.
 6. A principal component analysis (PCA) was performed, considering all the numerical variables after scaling the data and using the correlation matrix. 
 7. The cumulative proportion of variance explained by the sequential components, the Kaiser Criterion and the Scree plot, were observed to decide the number of components to keep. 
 8. A biplot was used to analyse the first two components.
+![](/img/LinearCorrelation.jpg)
+![](/img/Biplot.jpg)
